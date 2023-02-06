@@ -1,0 +1,6 @@
+C:\Users\Nolan Pawelski\Desktop\SalesTaxMethod\bin\Debug\SalesTaxMethod.exe.config
+C:\Users\Nolan Pawelski\Desktop\SalesTaxMethod\bin\Debug\SalesTaxMethod.exe
+C:\Users\Nolan Pawelski\Desktop\SalesTaxMethod\bin\Debug\SalesTaxMethod.pdb
+C:\Users\Nolan Pawelski\Desktop\SalesTaxMethod\obj\Debug\SalesTaxMethod.csproj.CoreCompileInputs.cache
+C:\Users\Nolan Pawelski\Desktop\SalesTaxMethod\obj\Debug\SalesTaxMethod.exe
+C:\Users\Nolan Pawelski\Desktop\SalesTaxMethod\obj\Debug\SalesTaxMethod.pdb

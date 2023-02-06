@@ -1,0 +1,7 @@
+C:\Users\Nolan Pawelski\Desktop\RocketShip\bin\Debug\RocketShip.exe.config
+C:\Users\Nolan Pawelski\Desktop\RocketShip\bin\Debug\RocketShip.exe
+C:\Users\Nolan Pawelski\Desktop\RocketShip\bin\Debug\RocketShip.pdb
+C:\Users\Nolan Pawelski\Desktop\RocketShip\obj\Debug\RocketShip.csproj.AssemblyReference.cache
+C:\Users\Nolan Pawelski\Desktop\RocketShip\obj\Debug\RocketShip.csproj.CoreCompileInputs.cache
+C:\Users\Nolan Pawelski\Desktop\RocketShip\obj\Debug\RocketShip.exe
+C:\Users\Nolan Pawelski\Desktop\RocketShip\obj\Debug\RocketShip.pdb
