@@ -1,0 +1,6 @@
+C:\Users\Nolan Pawelski\Desktop\TShirt\bin\Debug\TShirt.exe.config
+C:\Users\Nolan Pawelski\Desktop\TShirt\bin\Debug\TShirt.exe
+C:\Users\Nolan Pawelski\Desktop\TShirt\bin\Debug\TShirt.pdb
+C:\Users\Nolan Pawelski\Desktop\TShirt\obj\Debug\TShirt.csproj.CoreCompileInputs.cache
+C:\Users\Nolan Pawelski\Desktop\TShirt\obj\Debug\TShirt.exe
+C:\Users\Nolan Pawelski\Desktop\TShirt\obj\Debug\TShirt.pdb

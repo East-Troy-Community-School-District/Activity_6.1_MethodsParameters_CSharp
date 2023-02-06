@@ -1,0 +1,7 @@
+C:\Users\Nolan Pawelski\Desktop\VariableScope\bin\Debug\VariableScope.exe.config
+C:\Users\Nolan Pawelski\Desktop\VariableScope\bin\Debug\VariableScope.exe
+C:\Users\Nolan Pawelski\Desktop\VariableScope\bin\Debug\VariableScope.pdb
+C:\Users\Nolan Pawelski\Desktop\VariableScope\obj\Debug\VariableScope.csproj.AssemblyReference.cache
+C:\Users\Nolan Pawelski\Desktop\VariableScope\obj\Debug\VariableScope.csproj.CoreCompileInputs.cache
+C:\Users\Nolan Pawelski\Desktop\VariableScope\obj\Debug\VariableScope.exe
+C:\Users\Nolan Pawelski\Desktop\VariableScope\obj\Debug\VariableScope.pdb
