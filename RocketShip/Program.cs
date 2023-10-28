@@ -1,7 +1,8 @@
 ﻿/*
  * Rocket Ship
- * 2/5/2023
- * C#.NET I
+ * Pawelski
+ * 10/28/2023
+ * Developing Desktop Applications
  * 
  * Instructions:
  * Consider the following questions...

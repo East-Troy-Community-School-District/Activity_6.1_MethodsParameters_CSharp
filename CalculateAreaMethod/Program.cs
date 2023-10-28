@@ -1,7 +1,8 @@
 ﻿/*
  * Calculate Area Method
- * 2/5/2023
- * C#.NET I
+ * Pawelski
+ * 10/28/2023
+ * Developing Desktop Applications
  * 
  * Instructions:
  * Write a method that accepts the length and width of a 
