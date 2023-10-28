@@ -1,7 +1,8 @@
 ﻿/*
  * T-Shirt
- * 2/5/2023
- * C#.NET I
+ * Pawelski
+ * 10/28/2023
+ * Developing Desktop Applications
  * 
  * Instructions:
  * Answer the following questions...
@@ -9,7 +10,7 @@
  * 2. What is the default argument for the optional parameter?
  * 
  * Next, modify the method so that size has a default argument
- * of "large". Check your code by uncommenting line 30. You should
+ * of "large". Check your code by uncommenting line 31. You should
  * see the message "You ordered a large t-shirt with the logo I love C#! on it."
  */
 

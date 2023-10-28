@@ -1,7 +1,8 @@
 ﻿/*
  * Variable Scope
- * 2/5/2023
- * C#.NET I
+ * Pawelski
+ * 10/28/2023
+ * Developing Desktop Applications
  * 
  * Instructions:
  * Answer the following questions...
@@ -11,7 +12,7 @@
  *    method executes?
  * 4. Why does c in Main() change after the AnotherMystery() 
  *    method executes?
- * 5. Uncomment line 39. Why is there an error?
+ * 5. Uncomment line 40. Why is there an error?
  */
 
 using System;
